@@ -1,2 +1,1 @@
-print("this is a.py")
-print("hi")
+print("this is a.)
